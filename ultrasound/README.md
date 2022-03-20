@@ -1,6 +1,6 @@
-# sky-is-falling
+# ultrasound
 
-TK: short project description
+Exploring the use of low frequencies in music and films
 
 *Created by Susan Merriam (<>)*
 
