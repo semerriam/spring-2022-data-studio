@@ -12,3 +12,7 @@ data/
 
 scratch/
 !scratch/.gitkeep
+
+viz/
+!viz/.gitkeep
+!viz/ai2html-output/.gitkeep
