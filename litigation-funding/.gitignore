@@ -12,3 +12,8 @@ data/
 
 scratch/
 !scratch/.gitkeep
+
+viz/
+!viz/process/.gitkeep
+!viz/data-wrapper-westfleet/.gitkeep
+!viz/raw_graphs/.gitkeep
