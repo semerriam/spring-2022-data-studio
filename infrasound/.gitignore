@@ -16,3 +16,6 @@ scratch/
 viz/
 !viz/.gitkeep
 !viz/ai2html-output/.gitkeep
+
+analysis/Spotfy-API-scratchpad.ipynb
+analysis/infrasound
