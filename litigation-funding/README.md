@@ -1,4 +1,4 @@
-# sky-is-falling
+# Litigation Funding
 
 TK: short project description
 
