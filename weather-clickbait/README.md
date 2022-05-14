@@ -1,4 +1,4 @@
-# sky-is-falling
+# weather-clickbait
 
 TK: short project description
 
