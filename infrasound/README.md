@@ -1,4 +1,4 @@
-# ultrasound
+# Infrasound
 
 Exploring the use of low frequencies in music and films
 
